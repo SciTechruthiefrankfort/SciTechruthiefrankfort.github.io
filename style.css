@@ -1,0 +1,12 @@
+.headerText {
+  font-family: luminari;
+  font-size: 75px;
+  color: DimGray;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.background {
+  background-color: AntiqueWhite;
+}
